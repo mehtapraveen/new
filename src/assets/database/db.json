@@ -1,0 +1,7 @@
+[
+    {"id":1, "course":"angular"},
+    {"id":2, "course":"react"},
+    {"id":3, "course":"vue"},
+    {"id":4, "course":"bootstrap"},
+    {"id":5, "course":"mongodb"}
+  ]
