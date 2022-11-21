@@ -6,6 +6,12 @@ import { Component, OnInit } from '@angular/core';
     <p>
       student-list works!
     </p>
+    <p>
+      student-list works!
+    </p>
+    <p>
+      student-list works!
+    </p>
   `,
   styles: [
   ]
